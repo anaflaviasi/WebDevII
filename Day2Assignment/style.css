@@ -1,0 +1,11 @@
+table{
+    border: solid 1px black;
+  }
+  
+  table td, th{
+    border: solid 1px black;
+  }
+
+  table th{
+    background-color: lightgray;
+  }
